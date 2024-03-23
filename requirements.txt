@@ -1,0 +1,7 @@
+SpeechRecognition
+PyAudio
+gTTS
+openai
+pandas
+numpy
+python-dotenv
