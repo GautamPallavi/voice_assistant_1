@@ -7,7 +7,7 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain.llms import OpenAI
 from typing_extensions import Concatenate
 import re
-os.environ["OPENAI_API_KEY"]="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"
+os.environ["OPENAI_API_KEY"]="----------------"
 pdfreader=PdfReader("/content/123.pdf")
 raw_text=""
 for i,page in enumerate(pdfreader.pages):
